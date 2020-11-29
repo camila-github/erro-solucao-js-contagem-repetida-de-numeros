@@ -1,4 +1,4 @@
-## Treinamento Digital Innovation One - Exercicio - Jogo-pedra-papel-tesoura-lagarto-spock
+## Treinamento Digital Innovation One - Exercicio - Contagem repetida de numeros
 
 O exercicio publicado é referente ao treinamento do BOOTCAMP - Desenvolvedor NodeJS -  Solução de problemas com JavaScript.
 (https://digitalinnovation.one)
@@ -29,7 +29,7 @@ Exemplos de Entrada  | Exemplos de Saída
 
 
 ```javascript
-//SOLUÇAO 1
+//SOLUCAO 1
 let quantNum = gets();
 let numeros = [];
 for (i = 0; i < quantNum; i++) { /*Armazena os valores no array*/
